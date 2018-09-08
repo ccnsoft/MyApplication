@@ -7,7 +7,7 @@ public class test {
 		// TODO Auto-generated method stub
 System.out.println("hello");
 System.out.println("welcome");
-System.out.println(i);
+System.out.println("value is"+i);
 
 	}
 
