@@ -13,6 +13,7 @@ Employee e=new Employee();
 e.setEmpid(10);
 e.setEmpname("cn");
 System.out.println(e);
+System.out.println(e);
 	}
 
 }
