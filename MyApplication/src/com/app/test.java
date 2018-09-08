@@ -12,6 +12,7 @@ System.out.println("value is"+i);
 Employee e=new Employee();
 e.setEmpid(10);
 e.setEmpname("cn");
+e.setEmpsal(6.6);
 System.out.println(e);
 System.out.println(e);
 	}
