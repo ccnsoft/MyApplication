@@ -7,6 +7,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		System.out.println("hi");
+		System.out.println("hello");
 		// TODO Auto-generated method stub
 AbstractApplicationContext a=new ClassPathXmlApplicationContext("spring.xml");
 Employee e=(Employee)a.getBean("e");
